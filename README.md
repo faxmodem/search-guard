@@ -1,5 +1,6 @@
 # Search Guard - Security for Elasticsearch
 
+
 ![Logo](https://raw.githubusercontent.com/floragunncom/sg-assets/master/logo/sg_dlic_small.png) 
 
 Search Guard(®) is an Elasticsearch plugin that offers encryption, authentication, and authorization. It builds on Search Guard SSL and provides pluggable authentication and authorization modules in addition. Search Guard is fully compatible with Kibana, Logstash and Beats.
